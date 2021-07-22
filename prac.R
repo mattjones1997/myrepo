@@ -9,3 +9,5 @@ c
 
 d <- a + b + c
 d
+e <- d-a
+e
